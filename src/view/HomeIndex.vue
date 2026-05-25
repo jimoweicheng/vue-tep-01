@@ -1,8 +1,10 @@
 <template>
-    <div>222</div>
-    <span>{{title}}</span>
-    <el-button type="primary">Primary</el-button>
-    <HelloWorld></HelloWorld>
+  <div>555</div>
+  <span>{{ title }}</span>
+  <el-button type="primary"> 
+    Primary 
+  </el-button>
+  <HelloWorld />
 </template>
 
 <script lang="ts" setup>
